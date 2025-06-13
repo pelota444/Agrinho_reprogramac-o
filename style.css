@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: #8e44ad;
+    background: #4473ad;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -36,7 +36,7 @@ section {
 }
 
 h2 {
-    color: #3a2742;
+    color: #273a42;
 }
 
 .galeria {
@@ -68,7 +68,7 @@ input, textarea {
 }
 
 button {
-    background: #8e44ad;
+    background: #446cad;
     color: #fff;
     border: none;
     padding: 10px;
@@ -78,7 +78,7 @@ button {
 }
 
 button:hover {
-    background: #6c3483;
+    background: #345683;
 }
 
 footer {
