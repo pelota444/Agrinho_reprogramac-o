@@ -6,6 +6,10 @@ body {
 }
 
 p{
+    font-size:5em;
+}
+
+.galeria p {
     color: #273a42;
     text-decoration: none;
     align-items: center;
