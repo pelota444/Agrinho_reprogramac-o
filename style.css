@@ -5,6 +5,12 @@ body {
     padding: 0;
 }
 
+p{
+    color: #273a42;
+    text-decoration: none;
+    align-items: center;
+}
+
 header {
     background: #4473ad;
     color: #fff;
